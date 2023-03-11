@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/JustAbhishek/AbhishekPrasad/master/Templates/Abhishek-Fast-Facts.gif" width="1000px" height= "410px">](https://www.linkedin.com/in/abhishek-kumar-prasad-aa065310a/)
+[<img src="https://raw.githubusercontent.com/JustAbhishek/AbhishekPrasad/master/Templates/Poster.png" width="1500px" height= "550px">](https://www.linkedin.com/in/abhishek-kumar-prasad-aa065310a/)
 
 # Hello, Developers! <img src="https://raw.githubusercontent.com/JustAbhishek/AbhishekPrasad/master/Templates/wave.gif" width="30px">
 
