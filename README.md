@@ -3,7 +3,7 @@
 # Hello, Developers! <img src="https://raw.githubusercontent.com/JustAbhishek/AbhishekPrasad/master/Templates/wave.gif" width="30px">
 
 My name is Abhishek Kumar Prasad, living in Mumbai, India. Currently, Data Scientist by profession.  
-Holds almost 2 years of experience in BFSI Data Science Domain.   
+Holds almost 3.6 years of experience in BFSI Data Science Domain.   
 If that's not giving you a lot of detail, then you can connect with me from the below contact. <img src="https://raw.githubusercontent.com/JustAbhishek/AbhishekPrasad/master/Templates/tenor.gif" width="30px">
 
 ## <img src="https://raw.githubusercontent.com/JustAbhishek/AbhishekPrasad/master/Templates/social.gif" width="100px"> Social Contacts:
